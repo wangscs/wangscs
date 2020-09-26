@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, my name is Steven 👋
+
+[![Stevens's github stats](https://github-readme-stats.vercel.app/api?username=wangscs&show_icons=true&count_private=true&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **wangscs/wangscs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
