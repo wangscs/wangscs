@@ -1,7 +1,7 @@
 <h3 align=center> Hi there, my name is Steven <img src="Hi.gif" height="32" /> </h3>
 <br/>
 <a href="https://github.com/wangscs/wangscs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangscs&langs_count=6&layout=compact&hide=shaderlab,hlsl&theme=noctis_minimus"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangscs&langs_count=2&hide=shaderlab,hlsl&theme=noctis_minimus"/>
 </a>
 
 <a href="https://github.com/wangscs/wangscs">
